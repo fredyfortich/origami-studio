@@ -1,0 +1,7 @@
+# secrets and local-only rendering
+.env
+.env.*
+server.js
+renders/
+folds/
+node_modules/
